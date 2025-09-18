@@ -213,27 +213,9 @@ npm run build
 - 💬 **技术支持** - 7×24 小时技术支持
 - 📚 **培训服务** - 系统使用培训
 
-📧 商务合作：business@swiftbridge.com
 
 ---
 
-## 🤝 参与贡献
-
-我们欢迎所有形式的贡献！
-
-### 如何贡献
-1. Fork 本仓库
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 提交 Pull Request
-
-### 贡献者
-<a href="https://github.com/yourusername/exchangecurrency-opensource/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yourusername/exchangecurrency-opensource" />
-</a>
-
----
 
 ## 📄 开源协议
 
@@ -241,11 +223,6 @@ npm run build
 
 ---
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/exchangecurrency-opensource&type=Date)](https://star-history.com/#yourusername/exchangecurrency-opensource&Date)
-
----
 
 ## 📞 联系我们
 
