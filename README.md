@@ -168,7 +168,8 @@ npm run build
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/yourusername/exchangecurrency-opensource/main/docs/images/home.png" width="100%" />
+      <img src="<img width="318" height="684" alt="image" src="https://github.com/user-attachments/assets/42a455c9-ffb6-483a-a204-7d28334ce125" />
+" />
       <br />
       <sub><b>首页</b></sub>
     </td>
