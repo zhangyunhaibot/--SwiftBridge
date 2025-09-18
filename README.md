@@ -163,37 +163,6 @@ npm run build
 
 ---
 
-## 📸 界面预览
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="<img width="318" height="684" alt="image" src="https://github.com/user-attachments/assets/42a455c9-ffb6-483a-a204-7d28334ce125" />
-" />
-      <br />
-      <sub><b>首页</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/yourusername/exchangecurrency-opensource/main/docs/images/exchange.png" width="100%" />
-      <br />
-      <sub><b>兑换计算</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/yourusername/exchangecurrency-opensource/main/docs/images/payment.png" width="100%" />
-      <br />
-      <sub><b>支付确认</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/yourusername/exchangecurrency-opensource/main/docs/images/admin.png" width="100%" />
-      <br />
-      <sub><b>管理后台</b></sub>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 💼 商业授权
 
