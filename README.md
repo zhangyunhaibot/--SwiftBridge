@@ -133,10 +133,6 @@ docker-compose up -d
 # API服务: http://localhost:3000
 ```
 
-### ⚡ Vercel/Railway 部署
-
-[![Deploy on Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/exchangecurrency)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/swift-bridge)
 
 ### 🔧 手动部署
 
